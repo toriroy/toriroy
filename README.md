@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toriroy
-- 👀 I’m interested in ... biostatistics
+- 👀 I’m interested in ... biostatistics and epidemiology 
 - 🌱 I’m currently learning ... lots
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
